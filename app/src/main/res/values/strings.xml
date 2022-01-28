@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aplikasi Input Nilai Mahasiswa</string>
+    <string name="tab">\u0009</string>
+    <string name="edit_data">Edit Data</string>
+    <string name="hapus_data">Hapus Data</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="manajemen_database_nsqlite_point">Manajemen Database\nSQLite Point</string>
+    <string name="jumlah_data">Jumlah Data :</string>
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="kelas">Kelas</string>
+    <string name="nilai_tugas">Nilai Tugas</string>
+    <string name="nilai_proses">Nilai Proses</string>
+    <string name="nilai_uts">Nilai UTS</string>
+    <string name="nilai_uas">Nilai UAS</string>
+    <string name="nilai_akhir">Nilai Akhir</string>
+    <string name="simpan_data">SIMPAN DATA</string>
+    <string name="pilih_kelas">Tampil Kelas</string>
+    <string-array name="kelas_array">
+        <item>Semua</item>
+        <item>TI 2018 A</item>
+        <item>TI 2018 B</item>
+        <item>TI 2018 C</item>
+        <item>TI 2018 D</item>
+    </string-array>
+</resources>
